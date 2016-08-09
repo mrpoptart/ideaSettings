@@ -1,0 +1,23 @@
+<templateSet group="PHP">
+  <template name="ml" value="morganLog($END$);" description="morganLog" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="__" value="public function __construct($VARS$)&#10;{&#10;&#9;$END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="mla" value="morganLog(new \MorganLogArray($END$));" description="morganLogArray" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="e" value="echo &quot;$END$\n&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

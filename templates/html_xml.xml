@@ -1,0 +1,13 @@
+<templateSet group="html/xml">
+  <template name="codespan" value="&lt;span class=&quot;code&quot;&gt;$SELECTION$&lt;/span&gt;" description="Span Tag with Code Class" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="tl" value="{{#tl}}$SELECTION${{/tl}}" description="{{#tl}} wrapper" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="HAML" value="true" />
+    </context>
+  </template>
+</templateSet>
