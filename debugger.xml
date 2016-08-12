@@ -81,6 +81,11 @@
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
+      <debugger id="ruby">
+        <configuration>
+          <option name="timeout" value="300" />
+        </configuration>
+      </debugger>
     </debuggers>
   </component>
 </application>
