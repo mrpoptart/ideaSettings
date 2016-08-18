@@ -4,6 +4,7 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangesView.AddUnversioned" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -11,6 +12,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NextPage" />
   <action id="DatabaseView.CopyAction" />
+  <action id="Diagram.DeselectAll" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta y" />
@@ -19,7 +21,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
