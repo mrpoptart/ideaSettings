@@ -26,9 +26,10 @@
         <option value="json2.json" />
         <option value="js2.js" />
         <option value="privacy_tos.txt" />
+        <option value="sql2.sql" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="txt.txt" />
+    <option name="lastOpenedScratch" value="sql2.sql" />
     <option name="needMigration" value="false" />
   </component>
 </application>
