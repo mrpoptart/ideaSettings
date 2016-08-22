@@ -27,9 +27,10 @@
         <option value="js2.js" />
         <option value="privacy_tos.txt" />
         <option value="sql2.sql" />
+        <option value="sql3.sql" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="sql2.sql" />
+    <option name="lastOpenedScratch" value="sql.sql" />
     <option name="needMigration" value="false" />
   </component>
 </application>
