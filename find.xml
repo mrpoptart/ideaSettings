@@ -16,9 +16,9 @@
       <mask>*view.js</mask>
       <mask>*View.js</mask>
       <mask>*.strings</mask>
-      <mask>*.js</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

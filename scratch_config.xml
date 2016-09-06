@@ -28,9 +28,10 @@
         <option value="privacy_tos.txt" />
         <option value="sql2.sql" />
         <option value="sql3.sql" />
+        <option value="sh.sh" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="&amp;scratch.txt" />
+    <option name="lastOpenedScratch" value="sh.sh" />
     <option name="needMigration" value="false" />
   </component>
 </application>
