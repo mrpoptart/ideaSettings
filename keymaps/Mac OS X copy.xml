@@ -47,6 +47,10 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
