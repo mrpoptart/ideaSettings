@@ -1,5 +1,14 @@
 <application>
   <component name="libraryTable">
+    <library name="actionmailer (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/actionmailer-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/actionmailer-4.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/actionmailer-4.2.2/lib" />
@@ -16,6 +25,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/actionmailer-4.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/actionpack-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/actionpack-4.2.2/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -43,6 +61,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/actionview-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/actionview-4.2.2/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -129,6 +156,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a3fca244b0cb/features" />
       </SOURCES>
     </library>
+    <library name="activejob (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/activejob-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/activejob-4.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/activejob-4.2.2/lib" />
@@ -145,6 +181,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/activejob-4.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/activemodel-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/activemodel-4.2.2/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -165,6 +210,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/activemodel-4.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/activerecord-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/activerecord-4.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/activerecord-4.2.2/lib" />
@@ -181,6 +235,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/activerecord-4.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/activesupport-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/activesupport-4.2.2/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -210,6 +273,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/activesupport-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="arbre (v1.0.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/arbre-1.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/arbre-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="arbre (v1.0.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/arbre-1.0.3/lib" />
@@ -228,6 +300,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/arbre-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v6.0.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/arel-6.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/arel-6.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v6.0.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/arel-6.0.3/lib" />
@@ -244,6 +325,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/arel-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.10, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.10" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bcrypt-3.1.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bcrypt-3.1.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.10" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bcrypt-3.1.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bcrypt-3.1.10/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.10, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -309,6 +403,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/best_in_place-07cca67b003a/gemfiles" />
       </SOURCES>
     </library>
+    <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/binding_of_caller-0.7.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/binding_of_caller-0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/binding_of_caller/0.7.2" />
@@ -331,6 +438,21 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/binding_of_caller-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bourbon (v4.2.5, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bourbon-4.2.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bourbon-4.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bourbon-4.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bourbon-4.2.5/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bourbon-4.2.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bourbon-4.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bourbon-4.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bourbon-4.2.5/features" />
       </SOURCES>
     </library>
     <library name="bourbon (v4.2.5, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -361,6 +483,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bourbon-4.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bourbon-4.2.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bourbon-4.2.5/features" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -420,6 +553,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/bundler-1.12.5/man" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.13.6, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bundler-1.13.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bundler-1.13.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bundler-1.13.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bundler-1.13.6/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bundler-1.13.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bundler-1.13.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bundler-1.13.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/bundler-1.13.6/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-unload (v1.0.2, RVM: ruby-2.2.2 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/bundler-unload-1.0.2/lib" />
@@ -456,6 +604,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/bundler-unload-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v6.0.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/6.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/byebug-6.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/byebug-6.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/byebug-6.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/6.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/byebug-6.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/byebug-6.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/byebug-6.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v6.0.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/byebug/6.0.2" />
@@ -484,6 +647,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/byebug-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/chronic-0.10.2/lib" />
@@ -500,6 +672,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.1.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/coffee-rails-4.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/coffee-rails-4.1.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/coffee-rails-4.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/coffee-rails-4.1.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="coffee-rails (v4.1.0, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -524,6 +707,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/coffee-rails-4.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="coffee-script (v2.4.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script (v2.4.1, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/coffee-script-2.4.1/lib" />
@@ -542,6 +734,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/coffee-script-2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-script-source (v1.9.1.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/coffee-script-source-1.9.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/coffee-script-source-1.9.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="coffee-script-source (v1.9.1.1, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/coffee-script-source-1.9.1.1/lib" />
@@ -558,6 +759,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/coffee-script-source-1.9.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="composite_primary_keys (v8.1.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/composite_primary_keys-8.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/composite_primary_keys-8.1.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/composite_primary_keys-8.1.1/scripts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/composite_primary_keys-8.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/composite_primary_keys-8.1.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/composite_primary_keys-8.1.1/scripts" />
       </SOURCES>
     </library>
     <library name="composite_primary_keys (v8.1.1, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -586,6 +800,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/composite_primary_keys-8.1.1/scripts" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-0.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.1, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/debase-0.2.1/ext" />
@@ -606,6 +831,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-0.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta8, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-0.2.2.beta8/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-0.2.2.beta8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-0.2.2.beta8/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.2.beta8, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -639,6 +875,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/debase-ruby_core_source-0.9.1/lib" />
       </SOURCES>
     </library>
+    <library name="debase-ruby_core_source (v0.9.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-ruby_core_source-0.9.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debase-ruby_core_source-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.9.2, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-ruby_core_source-0.9.2/lib" />
@@ -646,6 +891,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/debase-ruby_core_source-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debug_inspector-0.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debug_inspector-0.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/debug_inspector/0.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debug_inspector-0.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/debug_inspector-0.0.2/lib" />
       </SOURCES>
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -715,6 +973,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/devise-3.5.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
     <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/diff-lcs-1.2.5/bin" />
@@ -739,6 +1010,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/diff-lcs-1.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/diff-lcs-1.2.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.24, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/domain_name-0.5.24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/domain_name-0.5.24/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/domain_name-0.5.24/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/domain_name-0.5.24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/domain_name-0.5.24/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/domain_name-0.5.24/tool" />
       </SOURCES>
     </library>
     <library name="domain_name (v0.5.24, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -767,6 +1051,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/domain_name-0.5.24/tool" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.0.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/dotenv-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/dotenv-2.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/dotenv-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/dotenv-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="dotenv (v2.0.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/dotenv-2.0.2/bin" />
@@ -789,6 +1084,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/dotenv-2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="dotenv-rails (v2.0.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/dotenv-rails-2.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/dotenv-rails-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="dotenv-rails (v2.0.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/dotenv-rails-2.0.2/lib" />
@@ -805,6 +1109,23 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/dotenv-rails-2.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="erubis (v2.7.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -839,6 +1160,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/erubis-2.7.0/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/erubis-2.7.0/doc-api" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="execjs (v2.6.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/execjs-2.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/execjs-2.6.0/lib" />
       </SOURCES>
     </library>
     <library name="execjs (v2.6.0, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -911,6 +1241,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/executable-hooks-1.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="formtastic (v3.1.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic-3.1.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic-3.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic-3.1.3/sample" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic-3.1.3/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic-3.1.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic-3.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic-3.1.3/sample" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic-3.1.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="formtastic (v3.1.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/formtastic-3.1.3/app" />
@@ -939,6 +1284,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/formtastic-3.1.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/formtastic-3.1.3/sample" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/formtastic-3.1.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="formtastic_i18n (v0.4.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic_i18n-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic_i18n-0.4.1/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic_i18n-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/formtastic_i18n-0.4.1/config" />
       </SOURCES>
     </library>
     <library name="formtastic_i18n (v0.4.1, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1007,6 +1363,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/gem-wrappers-1.2.7/lib" />
       </SOURCES>
     </library>
+    <library name="globalid (v0.3.6, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/globalid-0.3.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/globalid-0.3.6/lib" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.3.6, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/globalid-0.3.6/lib" />
@@ -1023,6 +1388,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/globalid-0.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="has_scope (v0.6.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/has_scope-0.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/has_scope-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="has_scope (v0.6.0, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1043,6 +1417,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/has_scope-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="http-cookie (v1.0.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/http-cookie-1.0.2/lib" />
@@ -1059,6 +1442,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.7.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/i18n-0.7.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/i18n-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1081,6 +1475,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/i18n-0.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/i18n-0.7.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="inherited_resources (v1.6.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/inherited_resources-1.6.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/inherited_resources-1.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/inherited_resources-1.6.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/inherited_resources-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="inherited_resources (v1.6.0, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1373,6 +1778,17 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.2/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.3.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jbuilder-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jbuilder-2.3.1/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jbuilder-2.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jbuilder-2.3.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="jbuilder (v2.3.1, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/jbuilder-2.3.1/lib" />
@@ -1393,6 +1809,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jbuilder-2.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jbuilder-2.3.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.0.4, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jquery-rails-4.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jquery-rails-4.0.4/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jquery-rails-4.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jquery-rails-4.0.4/vendor" />
       </SOURCES>
     </library>
     <library name="jquery-rails (v4.0.4, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1417,6 +1844,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jquery-rails-4.0.4/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-ui-rails (v5.0.5, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jquery-ui-rails-5.0.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jquery-ui-rails-5.0.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jquery-ui-rails-5.0.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/jquery-ui-rails-5.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="jquery-ui-rails (v5.0.5, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/jquery-ui-rails-5.0.5/app" />
@@ -1437,6 +1875,29 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jquery-ui-rails-5.0.5/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jquery-ui-rails-5.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/diagrams" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1483,6 +1944,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
+    <library name="kaminari (v0.16.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kaminari-0.16.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kaminari-0.16.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kaminari-0.16.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kaminari-0.16.3/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kaminari-0.16.3/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kaminari-0.16.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kaminari-0.16.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kaminari-0.16.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v0.16.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/kaminari-0.16.3/app" />
@@ -1513,6 +1989,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/kaminari-0.16.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kgio (v2.10.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.10.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kgio-2.10.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kgio-2.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kgio-2.10.0/archive" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.10.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kgio-2.10.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kgio-2.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/kgio-2.10.0/archive" />
+      </SOURCES>
+    </library>
     <library name="kgio (v2.10.0, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/kgio/2.10.0" />
@@ -1541,6 +2032,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/kgio-2.10.0/archive" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.0.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/loofah-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/loofah-2.0.3/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/loofah-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/loofah-2.0.3/benchmark" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/loofah-2.0.3/lib" />
@@ -1563,6 +2065,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/loofah-2.0.3/benchmark" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mail-2.6.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mail-2.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.6.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/mail-2.6.3/lib" />
@@ -1579,6 +2090,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mail-2.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v2.6.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mime-types-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mime-types-2.6.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mime-types-2.6.1/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mime-types-2.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mime-types-2.6.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mime-types-2.6.1/support" />
       </SOURCES>
     </library>
     <library name="mime-types (v2.6.1, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1605,6 +2129,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mime-types-2.6.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mime-types-2.6.1/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mime-types-2.6.1/support" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile (v0.6.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mini_portile-0.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mini_portile-0.6.2/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile (v0.6.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1670,6 +2203,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/minitest-5.4.3/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.8.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/minitest-5.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/minitest-5.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.8.0, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/minitest-5.8.0/lib" />
@@ -1688,6 +2230,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/minitest-5.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.11.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/multi_json-1.11.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.11.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/multi_json-1.11.2/lib" />
@@ -1704,6 +2255,21 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/multi_json-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mysql2 (v0.3.20, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.3.20" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mysql2-0.3.20/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mysql2-0.3.20/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mysql2-0.3.20/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.3.20" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mysql2-0.3.20/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mysql2-0.3.20/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/mysql2-0.3.20/support" />
       </SOURCES>
     </library>
     <library name="mysql2 (v0.3.20, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1734,6 +2300,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.20/support" />
       </SOURCES>
     </library>
+    <library name="netrc (v0.10.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/netrc-0.10.3/data" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/netrc-0.10.3/data" />
+      </SOURCES>
+    </library>
     <library name="netrc (v0.10.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/netrc-0.10.3/lib" />
@@ -1754,6 +2331,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/netrc-0.10.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/netrc-0.10.3/data" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.6.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.6.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.6.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/nokogiri-1.6.6.2/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.6.6.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1811,6 +2407,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8/suppressions" />
       </SOURCES>
     </library>
+    <library name="orm_adapter (v0.5.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/orm_adapter-0.5.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/orm_adapter-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/orm_adapter-0.5.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/orm_adapter-0.5.0/lib" />
@@ -1840,6 +2447,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/pkg-config-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="polyamorous (v1.2.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/polyamorous-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/polyamorous-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="polyamorous (v1.2.0, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1896,6 +2512,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/power_assert-0.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.4, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.4, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/rack-1.6.4/bin" />
@@ -1926,6 +2557,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
+    <library name="rack-test (v0.6.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/rack-test-0.6.3/lib" />
@@ -1942,6 +2582,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-4.2.2/guides" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-4.2.2/guides" />
       </SOURCES>
     </library>
     <library name="rails (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -1962,6 +2611,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rails-4.2.2/guides" />
       </SOURCES>
     </library>
+    <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/rails-deprecated_sanitizer-1.0.3/lib" />
@@ -1980,6 +2638,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rails-deprecated_sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="rails-dom-testing (v1.0.7, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-dom-testing-1.0.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-dom-testing-1.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-dom-testing (v1.0.7, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/rails-dom-testing-1.0.7/lib" />
@@ -1996,6 +2663,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rails-dom-testing-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-html-sanitizer-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-html-sanitizer-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2023,6 +2699,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/railties-4.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/railties-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/railties-4.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/railties-4.2.2/lib" />
       </SOURCES>
     </library>
     <library name="railties (v4.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2058,6 +2745,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/railties-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="raindrops (v0.15.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.15.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/raindrops-0.15.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/raindrops-0.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/raindrops-0.15.0/archive" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.15.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/raindrops-0.15.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/raindrops-0.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/raindrops-0.15.0/archive" />
+      </SOURCES>
+    </library>
     <library name="raindrops (v0.15.0, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/raindrops/0.15.0" />
@@ -2086,6 +2788,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/raindrops-0.15.0/archive" />
       </SOURCES>
     </library>
+    <library name="ransack (v1.7.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/ransack-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/ransack-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ransack (v1.7.0, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/ransack-1.7.0/lib" />
@@ -2104,6 +2815,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/ransack-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="responders (v2.1.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/responders-2.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/responders-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="responders (v2.1.0, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/responders-2.1.0/lib" />
@@ -2120,6 +2840,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/responders-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v1.8.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rest-client-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rest-client-1.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rest-client-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rest-client-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rest-client (v1.8.0, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2144,6 +2875,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rest-client-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.5.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.5.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-3.5.0/lib" />
@@ -2151,6 +2891,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.3.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-core-3.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-core-3.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-core-3.3.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-core-3.3.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.3.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2186,6 +2937,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-core-3.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.5.4, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-core-3.5.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-core-3.5.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-core-3.5.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-core-3.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.3.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-expectations-3.3.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-expectations-3.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.3.1, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/rspec-expectations-3.3.1/lib" />
@@ -2204,6 +2975,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.5.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-expectations-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-expectations-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.5.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.5.0/lib" />
@@ -2211,6 +2991,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-expectations-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.3.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-mocks-3.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-mocks-3.3.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.3.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2231,6 +3020,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-mocks-3.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.5.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-mocks-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-mocks-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v3.5.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-mocks-3.5.0/lib" />
@@ -2238,6 +3036,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-mocks-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.3.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-rails-3.3.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-rails-3.3.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.3.3, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2267,6 +3074,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-rails-3.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-support (v3.3.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-support-3.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-support-3.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.3.0, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/rspec-support-3.3.0/lib" />
@@ -2285,6 +3101,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-support-3.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-support (v3.5.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-support-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rspec-support-3.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.5.0, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-support-3.5.0/lib" />
@@ -2292,6 +3117,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rspec-support-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/ruby-debug-ide-0.6.1.beta2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/ruby-debug-ide-0.6.1.beta2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/ruby-debug-ide-0.6.1.beta2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/ruby-debug-ide-0.6.1.beta2/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2356,6 +3194,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rubygems-bundler-1.4.4/lib" />
       </SOURCES>
     </library>
+    <library name="rubygems-update (v2.6.8, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/util" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/bundler" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/hide_lib_for_update" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/util" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/bundler" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubygems-update-2.6.8/hide_lib_for_update" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.1.7, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubyzip-1.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubyzip-1.1.7/samples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubyzip-1.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rubyzip-1.1.7/samples" />
+      </SOURCES>
+    </library>
     <library name="rubyzip (v1.1.7, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/rubyzip-1.1.7/lib" />
@@ -2414,6 +3280,23 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rvm-1.11.3.9/lib" />
       </SOURCES>
     </library>
+    <library name="sass (v3.4.18, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-3.4.18/vendor" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.4.18, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/sass-3.4.18/bin" />
@@ -2448,6 +3331,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sass-3.4.18/vendor" />
       </SOURCES>
     </library>
+    <library name="sass-rails (v5.0.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-rails-5.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sass-rails-5.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="sass-rails (v5.0.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/sass-rails-5.0.3/lib" />
@@ -2464,6 +3356,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sass-rails-5.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="sdoc (v0.4.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sdoc-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sdoc-0.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sdoc-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sdoc-0.4.1/lib" />
       </SOURCES>
     </library>
     <library name="sdoc (v0.4.1, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2488,6 +3391,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sdoc-0.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="spring (v1.3.6, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/spring-1.3.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/spring-1.3.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/spring-1.3.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/spring-1.3.6/lib" />
+      </SOURCES>
+    </library>
     <library name="spring (v1.3.6, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/spring-1.3.6/bin" />
@@ -2510,6 +3424,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/spring-1.3.6/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.3.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sprockets-3.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sprockets-3.3.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sprockets-3.3.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sprockets-3.3.3/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v3.3.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/sprockets-3.3.3/bin" />
@@ -2530,6 +3455,15 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sprockets-3.3.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/sprockets-3.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v2.3.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sprockets-rails-2.3.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/sprockets-rails-2.3.2/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v2.3.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2594,6 +3528,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/test-unit-3.0.8/sample" />
       </SOURCES>
     </library>
+    <library name="thor (v0.19.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.1, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/thor-0.19.1/bin" />
@@ -2614,6 +3559,21 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/thor-0.19.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="thread_safe (v0.3.5, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thread_safe-0.3.5/yard-template" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thread_safe-0.3.5/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thread_safe-0.3.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thread_safe-0.3.5/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/thread_safe-0.3.5/yard-template" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2646,6 +3606,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/thread_safe-0.3.5/yard-template" />
       </SOURCES>
     </library>
+    <library name="tilt (v1.4.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/tilt-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/tilt-1.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/tilt-1.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/tilt-1.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="tilt (v1.4.1, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/tilt-1.4.1/bin" />
@@ -2668,6 +3639,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/tilt-1.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="turbolinks (v2.5.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/turbolinks-2.5.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/turbolinks-2.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="turbolinks (v2.5.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/turbolinks-2.5.3/lib" />
@@ -2686,6 +3666,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/turbolinks-2.5.3/lib" />
       </SOURCES>
     </library>
+    <library name="tzinfo (v1.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/tzinfo-1.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.2, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/tzinfo-1.2.2/lib" />
@@ -2702,6 +3691,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v2.7.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/uglifier-2.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/uglifier-2.7.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/uglifier-2.7.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/uglifier-2.7.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="uglifier (v2.7.2, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2726,6 +3726,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/uglifier-2.7.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="unf (v0.1.4, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/unf-0.1.4/lib" />
@@ -2742,6 +3751,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unf_ext-0.0.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unf_ext-0.0.7.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unf_ext-0.0.7.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unf_ext-0.0.7.1/lib" />
       </SOURCES>
     </library>
     <library name="unf_ext (v0.0.7.1, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2764,6 +3784,29 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/unf_ext-0.0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/unf_ext-0.0.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicorn (v5.0.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicorn/5.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/Documentation" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/unicorn/5.0.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/t" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/archive" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/unicorn-5.0.1/Documentation" />
       </SOURCES>
     </library>
     <library name="unicorn (v5.0.1, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2810,6 +3853,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/unicorn-5.0.1/Documentation" />
       </SOURCES>
     </library>
+    <library name="warden (v1.2.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/warden-1.2.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/warden-1.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="warden (v1.2.3, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/warden-1.2.3/lib" />
@@ -2828,6 +3880,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/warden-1.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="web-console (v2.2.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/web-console-2.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/web-console-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="web-console (v2.2.1, RVM: ruby-2.2.2 [weebly]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly/gems/web-console-2.2.1/lib" />
@@ -2844,6 +3905,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/web-console-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="whenever (v0.9.4, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/whenever-0.9.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/whenever-0.9.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/whenever-0.9.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/whenever-0.9.4/lib" />
       </SOURCES>
     </library>
     <library name="whenever (v0.9.4, RVM: ruby-2.2.2 [weebly]) [gem]">
@@ -2866,6 +3938,15 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/whenever-0.9.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/whenever-0.9.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="yaml_db (v0.3.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/yaml_db-0.3.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/yaml_db-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="yaml_db (v0.3.0, RVM: ruby-2.2.2 [weebly]) [gem]">
