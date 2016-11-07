@@ -4,6 +4,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,6 +19,7 @@
       <mask>*.strings</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*admin*.js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
