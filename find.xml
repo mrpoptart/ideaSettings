@@ -18,8 +18,8 @@
       <mask>*.strings</mask>
       <mask>*.tpl</mask>
       <mask>*admin*.js</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
