@@ -63,6 +63,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/actionpack-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.0.0.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/actionpack-5.0.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/actionpack-5.0.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v4.2.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/actionview-4.2.2/lib" />
@@ -97,6 +106,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/actionview-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.0.0.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/actionview-5.0.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/actionview-5.0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="activeadmin (v1.0.0.pre2@a3fca2, RVM: ruby-2.2.2 [global]) [gem]">
@@ -290,6 +308,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/activesupport-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.0.0.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/activesupport-5.0.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/activesupport-5.0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="arbre (v1.0.3, RVM: ruby-2.2.2 [global]) [gem]">
@@ -595,6 +622,11 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/builder-3.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/builder-3.2.2/rakelib" />
       </SOURCES>
+    </library>
+    <library name="bundle (v0.0.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
     <library name="bundle (v0.0.1, RVM: ruby-2.2.2) [gem]">
       <CLASSES />
@@ -941,6 +973,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/composite_primary_keys-8.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/composite_primary_keys-8.1.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/composite_primary_keys-8.1.1/scripts" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.0.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/concurrent-ruby-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
@@ -2309,6 +2350,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/kgio-2.10.0/archive" />
       </SOURCES>
     </library>
+    <library name="lograge (v0.4.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/lograge-0.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/lograge-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="logstash-event (v1.2.02, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-event-1.2.02/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-event-1.2.02/lib" />
+      </SOURCES>
+    </library>
+    <library name="logstash-logger (v0.20.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/loofah-2.0.3/lib" />
@@ -2469,6 +2541,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mini_portile-0.6.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.1.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/mini_portile2-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.1.0, RVM: ruby-2.2.2) [gem]">
@@ -2720,6 +2801,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/suppressions" />
+      </SOURCES>
+    </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/orm_adapter-0.5.0/lib" />
@@ -2894,6 +2994,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-2.0.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-2.0.1/example" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-2.0.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-2.0.1/example" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.2.2 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rack-test-0.6.3/lib" />
@@ -3011,6 +3126,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rails-dom-testing-1.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="rails-dom-testing (v2.0.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rails-dom-testing-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rails-dom-testing-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-html-sanitizer (v1.0.2, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@weebly-translations/gems/rails-html-sanitizer-1.0.2/lib" />
@@ -3036,6 +3160,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rails-html-sanitizer-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.3, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rails-html-sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.3, RVM: ruby-2.2.2) [gem]">
@@ -3089,6 +3222,17 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/railties-4.2.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/railties-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.0.0.1, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/railties-5.0.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/railties-5.0.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/railties-5.0.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/railties-5.0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="raindrops (v0.15.0, RVM: ruby-2.2.2 [weebly-translations]) [gem]">
