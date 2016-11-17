@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="email*" type="HTML" />
       <mapping ext="33" type="HTML" />
+      <mapping ext="email" type="HTML" />
       <mapping ext="tpl" type="Handlebars/Mustache" />
       <mapping pattern="migrate" type="PHP" />
       <mapping pattern="translate" type="PHP" />
