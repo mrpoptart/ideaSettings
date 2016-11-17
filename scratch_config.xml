@@ -29,9 +29,10 @@
         <option value="sql2.sql" />
         <option value="sql3.sql" />
         <option value="sh.sh" />
+        <option value="pastes.sh" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="json.json" />
+    <option name="lastOpenedScratch" value="pastes.sh" />
     <option name="needMigration" value="false" />
   </component>
 </application>
