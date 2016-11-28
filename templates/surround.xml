@@ -3,14 +3,12 @@
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="PHP String Literal" value="true" />
     </context>
   </template>
   <template name="_W.stl" value="_W.stl($SELECTION$)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="PHP String Literal" value="true" />
     </context>
   </template>
 </templateSet>
