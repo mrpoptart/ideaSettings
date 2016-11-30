@@ -294,6 +294,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-78324a83fa01/features" />
       </SOURCES>
     </library>
+    <library name="activeadmin (v1.0.0.pre4@a932d5, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a932d56b156e/features" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.2, RVM: ruby-2.2.2 [global] (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/activejob-4.2.2/lib" />
@@ -1295,6 +1314,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/concurrent-ruby-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.0.2, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/concurrent-ruby-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.1, RVM: ruby-2.2.2 [global] (1)) [gem]">
@@ -3196,6 +3224,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-event-1.2.02/lib" />
       </SOURCES>
     </library>
+    <library name="logstash-event (v1.2.02, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logstash-event-1.2.02/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logstash-event-1.2.02/lib" />
+      </SOURCES>
+    </library>
     <library name="logstash-logger (v0.20.0, RVM: ruby-2.2.2 [global] (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/lib" />
@@ -3233,6 +3270,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/samples" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/logstash-logger-0.20.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="logstash-logger (v0.20.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logstash-logger-0.20.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logstash-logger-0.20.0/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logstash-logger-0.20.0/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logstash-logger-0.20.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logstash-logger-0.20.0/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/logstash-logger-0.20.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="loofah (v2.0.3, RVM: ruby-2.2.2 [global] (1)) [gem]">
@@ -3459,6 +3509,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mini_portile-0.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.0.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mini_portile2-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mini_portile2-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_portile2 (v2.1.0, RVM: ruby-2.2.2 [global] (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/mini_portile2-2.1.0/lib" />
@@ -3664,6 +3723,21 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.20/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.20/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.20/support" />
+      </SOURCES>
+    </library>
+    <library name="mysql2 (v0.3.21, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.3.21" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.21/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.21/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.3.21" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.21/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.21/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mysql2-0.3.21/support" />
       </SOURCES>
     </library>
     <library name="mysql2 (v0.4.5, RVM: ruby-2.2.2) [gem]">
@@ -3880,6 +3954,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/nokogiri-1.6.8.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.6.8.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/suppressions" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.6.8.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/nokogiri-1.6.8.1/suppressions" />
       </SOURCES>
     </library>
     <library name="orm_adapter (v0.5.0, RVM: ruby-2.2.2 [global] (1)) [gem]">
