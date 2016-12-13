@@ -275,6 +275,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-a3fca244b0cb/features" />
       </SOURCES>
     </library>
+    <library name="activeadmin (v1.0.0.pre4@4f4940, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-4f494073c6c0/features" />
+      </SOURCES>
+    </library>
     <library name="activeadmin (v1.0.0.pre4@78324a, RVM: ruby-2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/bundler/gems/activeadmin-78324a83fa01/app" />
@@ -4633,6 +4652,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-11.3.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-11.3.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-11.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.0.0, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-12.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-12.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-12.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/rake-12.0.0/lib" />
       </SOURCES>
     </library>
     <library name="ransack (v1.7.0, RVM: ruby-2.2.2 [global] (1)) [gem]">
