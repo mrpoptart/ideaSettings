@@ -2974,6 +2974,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jquery-ui-rails-6.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="jquery-ui-rails (v6.0.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jquery-ui-rails-6.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jquery-ui-rails-6.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jquery-ui-rails-6.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/jquery-ui-rails-6.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, RVM: ruby-2.2.2 [global] (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2@global/gems/json-1.8.3/ext" />
@@ -3571,6 +3582,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.10.1, RVM: ruby-2.2.2) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/minitest-5.10.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.2/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.4.3, RVM: ruby-2.2.2 [global] (1)) [gem]">
