@@ -30,9 +30,10 @@
         <option value="sql3.sql" />
         <option value="sh.sh" />
         <option value="pastes.sh" />
+        <option value="AI.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="js2.js" />
+    <option name="lastOpenedScratch" value="AI.txt" />
     <option name="needMigration" value="false" />
   </component>
 </application>
