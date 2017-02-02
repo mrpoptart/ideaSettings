@@ -31,6 +31,7 @@
         <option value="sh.sh" />
         <option value="pastes.sh" />
         <option value="AI.txt" />
+        <option value="-u" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="sh.sh" />
