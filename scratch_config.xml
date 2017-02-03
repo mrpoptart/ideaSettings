@@ -31,12 +31,12 @@
         <option value="sh.sh" />
         <option value="pastes.sh" />
         <option value="AI.txt" />
-        <option value="-u" />
         <option value="pre-commit.php" />
         <option value="pre-commit-all.php" />
+        <option value="-u" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="pre-commit.php" />
+    <option name="lastOpenedScratch" value="pre-commit-all.php" />
     <option name="needMigration" value="false" />
   </component>
 </application>
