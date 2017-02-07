@@ -3,40 +3,23 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="&amp;scratch.txt" />
-        <option value="scratch&amp;2.txt" />
-        <option value="scratch&amp;3.xml" />
-        <option value="scratch&amp;4.xml" />
         <option value="txt.txt" />
         <option value="json.json" />
         <option value="rb.rb" />
         <option value="php.php" />
         <option value="html.html" />
-        <option value="ryan.html" />
         <option value="bday.html" />
-        <option value="password.php" />
-        <option value="password.html" />
         <option value="js.js" />
         <option value="sql.sql" />
         <option value="bookmarklet.js" />
-        <option value="html2.html" />
-        <option value="password2.html" />
-        <option value="password2.js" />
         <option value="md.md" />
-        <option value="json2.json" />
-        <option value="js2.js" />
         <option value="privacy_tos.txt" />
-        <option value="sql2.sql" />
-        <option value="sql3.sql" />
         <option value="sh.sh" />
-        <option value="pastes.sh" />
-        <option value="AI.txt" />
         <option value="pre-commit.php" />
         <option value="pre-commit-all.php" />
-        <option value="-u" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="pre-commit-all.php" />
+    <option name="lastOpenedScratch" value="bday.html" />
     <option name="needMigration" value="false" />
   </component>
 </application>
