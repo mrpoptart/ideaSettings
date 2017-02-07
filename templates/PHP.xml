@@ -10,8 +10,8 @@
     <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP" value="true" />
       <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
