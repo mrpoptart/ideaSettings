@@ -17,9 +17,10 @@
         <option value="sh.sh" />
         <option value="pre-commit.php" />
         <option value="pre-commit-all.php" />
+        <option value="sql-to-php.php" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="bday.html" />
+    <option name="lastOpenedScratch" value="html.html" />
     <option name="needMigration" value="false" />
   </component>
 </application>

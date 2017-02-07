@@ -5,4 +5,13 @@
   </template>
   <template name="mla" value="morganLog(new \MorganLogArray($END$));" description="morganLogArray" toReformat="false" toShortenFQNames="true" />
   <template name="e" value="echo &quot;$END$\n&quot;;" description="'echo' statement" toReformat="true" toShortenFQNames="true" />
+  <template name="remotable" value="/**&#10;&#9; * $DESCRIPTION$ &#10;&#9; *&#10;&#9; * @return Result&#10;&#9; *&#10;&#9; * @remotable&#10;&#9; */&#10;&#9;public function $NAME$($VARS$)&#10;&#9;{&#10;&#9;&#9;$out = $END$&#10;&#9;&#9;$result = new Result(true, 'Success', $out);&#10;&#9;&#9;return $result;&#10;&#9;}" description="create a stORM remotable method" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DESCRIPTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
