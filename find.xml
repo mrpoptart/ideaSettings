@@ -4,6 +4,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*Model.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,6 +21,7 @@
       <mask>*.js</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*Model.php</mask>
     </recentFileMasks>
   </component>
 </application>
