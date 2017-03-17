@@ -19,10 +19,10 @@
       <mask>*View.js</mask>
       <mask>*.strings</mask>
       <mask>*admin*.js</mask>
-      <mask>*.js</mask>
       <mask>*Model.php</mask>
       <mask>*.php</mask>
       <mask>*.tpl</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
