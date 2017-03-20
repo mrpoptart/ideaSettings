@@ -19,9 +19,10 @@
         <option value="pre-commit-all.php" />
         <option value="sql-to-php.php" />
         <option value="pushups.html" />
+        <option value="jsmin.js" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="json.json" />
+    <option name="lastOpenedScratch" value="jsmin.js" />
     <option name="needMigration" value="false" />
   </component>
 </application>
