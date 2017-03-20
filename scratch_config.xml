@@ -20,9 +20,11 @@
         <option value="sql-to-php.php" />
         <option value="pushups.html" />
         <option value="jsmin.js" />
+        <option value="js.js.gz" />
+        <option value="jsmin.js.gz" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="jsmin.js" />
+    <option name="lastOpenedScratch" value="html.html" />
     <option name="needMigration" value="false" />
   </component>
 </application>
