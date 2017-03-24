@@ -1,12 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tpl" type="HTML" />
       <mapping ext="email" type="HTML" />
       <mapping ext="33" type="HTML" />
-      <mapping pattern="translate" type="PHP" />
       <mapping pattern="migrate" type="PHP" />
+      <mapping pattern="translate" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <mapping ext="xliff" type="XML" />
     </extensionMap>
   </component>
