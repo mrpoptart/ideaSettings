@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Get Git Path" showInMainMenu="true" showInEditor="true" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="echo" />
+      <option name="PARAMETERS" value="$(git config --get remote.origin.url | sed -e 's/.git$//')&quot;/blob/&quot;$(git rev-parse --abbrev-ref HEAD)&quot;/&quot;" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+    </exec>
+  </tool>
+</toolSet>
