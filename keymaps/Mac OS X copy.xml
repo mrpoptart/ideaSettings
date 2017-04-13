@@ -71,6 +71,12 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Tool_External Tools_Get Git Path">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="Tool_External Tools_Open on Github">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
