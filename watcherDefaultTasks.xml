@@ -19,5 +19,24 @@
       <option name="workingDir" value="$USER_HOME$/Documents/weebly" />
       <envs />
     </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="&quot;just changed an open file $FilePathRelativeToProjectRoot$&quot;" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="fileExtension" value="*" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="Open files changed" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="echo" />
+      <option name="scopeName" value="Open Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
   </component>
 </application>
