@@ -22,8 +22,8 @@
       <mask>*admin*.js</mask>
       <mask>*Model.php</mask>
       <mask>*.tpl</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
