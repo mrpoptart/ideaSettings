@@ -5,6 +5,7 @@
       <mapping ext="tpl" type="HTML" />
       <mapping ext="33" type="HTML" />
       <mapping pattern="setup" type="JavaScript" />
+      <mapping pattern="adyen-encrypt" type="JavaScript" />
       <mapping pattern="translate" type="PHP" />
       <mapping pattern="migrate" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
