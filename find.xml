@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,8 +24,10 @@
       <mask>*Model.php</mask>
       <mask>*.tpl</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>p</mask>
+      <mask>php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
