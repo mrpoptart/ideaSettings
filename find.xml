@@ -24,9 +24,9 @@
       <mask>*.tpl</mask>
       <mask>p</mask>
       <mask>php</mask>
+      <mask>*.js</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
