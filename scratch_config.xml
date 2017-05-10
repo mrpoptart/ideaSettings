@@ -22,9 +22,10 @@
         <option value="jsmin.js" />
         <option value="js.js.gz" />
         <option value="jsmin.js.gz" />
+        <option value="puzle.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="txt.txt" />
+    <option name="lastOpenedScratch" value="puzle.txt" />
     <option name="needMigration" value="false" />
   </component>
 </application>
