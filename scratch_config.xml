@@ -3,29 +3,11 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="txt.txt" />
-        <option value="json.json" />
-        <option value="rb.rb" />
-        <option value="php.php" />
-        <option value="html.html" />
-        <option value="bday.html" />
-        <option value="js.js" />
-        <option value="sql.sql" />
-        <option value="bookmarklet.js" />
-        <option value="md.md" />
-        <option value="privacy_tos.txt" />
-        <option value="sh.sh" />
-        <option value="pre-commit.php" />
-        <option value="pre-commit-all.php" />
-        <option value="sql-to-php.php" />
-        <option value="pushups.html" />
-        <option value="jsmin.js" />
-        <option value="js.js.gz" />
-        <option value="jsmin.js.gz" />
-        <option value="puzle.txt" />
-        <option value="xml.xml" />
+        <option value="scratch" />
+        <option value="scratch_1" />
+        <option value="scratch_2" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="txt.txt" />
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
