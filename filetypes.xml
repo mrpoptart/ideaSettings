@@ -11,6 +11,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="stringstokeys" type="PLAIN_TEXT" />
       <mapping pattern=".private" type="PLAIN_TEXT" />
+      <mapping pattern="billing-domainVerificationRequired" type="PLAIN_TEXT" />
       <mapping pattern="billing-domainValidationRequired" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="d" type="SQL" />
