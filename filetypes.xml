@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="billing-*" type="HTML" />
       <mapping pattern="lifecycle.*" type="HTML" />
-      <mapping pattern="*" type="HTML" />
       <mapping ext="email" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="33" type="HTML" />
