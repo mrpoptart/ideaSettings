@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="billing-domainVerificationRequired2" type="HTML" />
       <mapping ext="email" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="33" type="HTML" />
