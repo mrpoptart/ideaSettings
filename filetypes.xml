@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="billing-domain*" type="HTML" />
+      <mapping pattern="billing-*" type="HTML" />
+      <mapping pattern="lifecycle.*" type="HTML" />
+      <mapping pattern="*" type="HTML" />
       <mapping ext="email" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="33" type="HTML" />
@@ -12,7 +14,6 @@
       <mapping pattern="stringstokeys" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".private" type="PLAIN_TEXT" />
-      <mapping pattern="billing-domainVerificationRequired" type="PLAIN_TEXT" />
       <mapping pattern="billing-domainValidationRequired" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="d" type="SQL" />
