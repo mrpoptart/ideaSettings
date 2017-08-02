@@ -29,9 +29,10 @@
         <option value="scratch" />
         <option value="scratch_1" />
         <option value="scratch_2" />
+        <option value="es6.es6" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="html.html" />
+    <option name="lastOpenedScratch" value="es6.es6" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
