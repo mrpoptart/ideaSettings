@@ -6,15 +6,15 @@
       <mapping ext="email" type="HTML" />
       <mapping ext="tpl" type="HTML" />
       <mapping ext="33" type="HTML" />
-      <mapping pattern="setup" type="JavaScript" />
       <mapping pattern="adyen-encrypt" type="JavaScript" />
       <mapping pattern="migrate" type="PHP" />
       <mapping pattern="translate" type="PHP" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
+      <mapping pattern="setup" type="PHP" />
+      <mapping pattern="stringstokeys" type="PLAIN_TEXT" />
       <mapping pattern=".private" type="PLAIN_TEXT" />
       <mapping pattern="billing-domainValidationRequired" type="PLAIN_TEXT" />
-      <mapping pattern="stringstokeys" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="d" type="SQL" />
