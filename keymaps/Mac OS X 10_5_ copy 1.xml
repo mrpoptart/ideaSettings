@@ -1,0 +1,21 @@
+<keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
+  <action id="ChangesView.AddUnversioned" />
+  <action id="Diagram.DeselectAll" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="meta alt a" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
