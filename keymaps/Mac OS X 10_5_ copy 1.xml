@@ -1,23 +1,50 @@
 <keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
   <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="DatabaseView.CopyAction">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
   <action id="Diagram.DeselectAll" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta alt a" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="NextOccurence" />
   <action id="ParameterInfo" />
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="RunDashboard.CopyConfiguration">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="SendEOF" />
   <action id="Tool_External Tools_Open on Github">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
