@@ -1,4 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ copy 1" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
@@ -19,13 +21,21 @@
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta alt a" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NextOccurence" />
   <action id="ParameterInfo" />
